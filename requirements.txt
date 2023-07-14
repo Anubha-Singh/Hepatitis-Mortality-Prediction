@@ -77,7 +77,7 @@ threadpoolctl==2.1.0
 tifffile==2020.7.4
 toml==0.10.1
 toolz==0.10.0
-tornado==6.0.4
+tornado==6.3.2
 tqdm==4.47.0
 traitlets==4.3.3
 tzlocal==2.1
